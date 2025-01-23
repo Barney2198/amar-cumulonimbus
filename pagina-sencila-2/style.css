@@ -1,0 +1,47 @@
+body {
+    background-image: url(fondosi.png);
+    background-size: cover;
+    margin: 0;
+    /* height: 900px; */
+}
+
+/* img {
+    margin: 0;
+    height: 910px;
+} */
+
+ul {
+    display: inline-block;
+    margin: 10px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 12px;
+
+
+}
+
+a {
+    color: rgb(62, 9, 179);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+h1 {
+    color: rgb(242, 12, 43);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+p {
+    color: rgb(17, 240, 20);
+    margin-top: 32px;
+    text-align: center;
+    width: 40%;
+    font-size: 30px;
+    margin: auto;
+    font-weight: 10px;
+
+}
